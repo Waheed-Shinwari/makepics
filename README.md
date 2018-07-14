@@ -19,9 +19,13 @@ Usage: makepics [params]
 		video file from which to extract images/frames
 
 Example usage:
-./makepics --path=./myDirectory/ --type=png --vid=myVideoFile.mp4 
+./makepics      --path=./myDirectory/      --type=png       --vid=myVideoFile.mp4 
+
+
+
 
 
 
 Regards
+
 Waheed Shinwari
