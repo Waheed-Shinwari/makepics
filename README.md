@@ -1,9 +1,9 @@
 # makepics
 makepics is a light and simple tool to create pictures or images from a video file.
-I buil this tool when I needed each and every frame from a video for another project, 
+I built this tool when I needed each and every frame from a video for another project, 
 so that I could analyse those frames one by one.
 
-The compiled binary file is included i.e makepics
+The compiled binary file is included as well i.e makepics
 
 Sample usage:
 
